@@ -19,3 +19,5 @@ pydantic==2.11.5
 bitsandbytes
 uvicorn
 fastapi
+PyMuPDF
+pinecone
