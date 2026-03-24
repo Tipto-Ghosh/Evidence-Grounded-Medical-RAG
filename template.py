@@ -9,8 +9,12 @@ project_name = "medChat"
 
 list_of_files = [
     f"{project_name}/__init__.py",
-    f"{project_name}/helper.py",
-    f"{project_name}/prompt.py",
+    f"{project_name}/prompts.py",
+    f"{project_name}/config.py",
+    f"{project_name}/embeddings.py",
+    f"{project_name}/vectorstore.py",
+    f"{project_name}/retriever.py",
+    f"{project_name}/chain.py",
     
     "notebooks/test.ipynb",
     
